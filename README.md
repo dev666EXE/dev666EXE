@@ -7,13 +7,13 @@ Sobre mim:
 -Habilidades em linguagem de progamação:
 
 Html
-Python 
-Java
-Lisp
-Javascript
-php
-C
-C#
+,Python 
+,Java
+,Lisp
+,Javascript
+,php
+,C
+,C#
 
 -Linguagem favorita: Python
 
